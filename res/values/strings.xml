@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Modem Notifier</string>
+    <string name="dumping_title">System info dumping &#8230;</string>
+    <string name="dumping_message">The system info is dumping, please do not export log</string>
+</resources>
